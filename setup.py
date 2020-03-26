@@ -20,7 +20,7 @@ setup(name='geograpy2',
       install_requires=[
             'numpy',
             'nltk',
-            'newspaper',
+            'newspaper3k',
             'jellyfish',
             'pycountry'
       ],
